@@ -1,5 +1,5 @@
 
-Proof of concept that json can be served from github. Serves as a cache for tier 1 requests to the pokemon api: !(https://pokeapi.co/)[https://pokeapi.co/].
+Proof of concept that json can be served from github. Serves as a cache for tier 1 requests to the pokemon api: [https://pokeapi.co/](https://pokeapi.co/)
 
 ### Usage
 
@@ -9,4 +9,4 @@ Proof of concept that json can be served from github. Serves as a cache for tier
 
 ![lol pokemon](https://media1.tenor.com/images/75a163d30bfdcc79014b5ed4ce9bb286/tenor.gif?itemid=4285044)
 
-__Checkout the script I used !(here)[http://github.com/fizal619/pokeapi/].__
+_Checkout the script I used [here](http://github.com/fizal619/pokeapi/)._

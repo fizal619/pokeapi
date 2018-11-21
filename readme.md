@@ -3,7 +3,7 @@ Proof of concept that json can be served from github. Serves as a cache for tier
 
 ### Usage
 
-- Make requests to `http://fizal.me/pokeapi/api/v2/id/<id>.json` or `http://fizal.me/pokeapi/api/v2/name/<name>.json`. e.g `http://fizal.me/pokeapi/api/v2/id/25.json` would give me the data for pikachu. `http://fizal.me/pokeapi/api/v2/name/bulbasaur.json` would give me data for bulbasaur.
+- Make requests to `https://fizal.me/pokeapi/api/v2/id/<id>.json` or `https://fizal.me/pokeapi/api/v2/name/<name>.json`. e.g `https://fizal.me/pokeapi/api/v2/id/25.json` would give me the data for pikachu. `https://fizal.me/pokeapi/api/v2/name/bulbasaur.json` would give me data for bulbasaur.
 - The response body might be plain text because of the way github tried to avoid being used as a database. Simply run `JSON.parse` on it. 😀
 - Please use the original api for data outside of the `/pokemon` endpoint.
 
